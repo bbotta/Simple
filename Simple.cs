@@ -12,7 +12,7 @@ class HelloWorld
 #endif
 
 <<<<<<< HEAD
-        Console.WriteLine("This is a test of the new Bamboo server for X1 Discovery");
+        Console.WriteLine("This is a test of the new Bamboo server for X1 Discovery.  This is for Stu");
     }
 =======
         Console.WriteLine("Let this compile due to the trigger.");
