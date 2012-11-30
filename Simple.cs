@@ -1,4 +1,6 @@
+
 using System;
+
 
 class HelloWorld
 {
@@ -8,6 +10,8 @@ class HelloWorld
         Console.WriteLine("WE ARE IN THE DEBUG CONFIGURATION");
 #endif
 
-        Console.WriteLine("This is a test of the new Bamboo server for X1 Discovery");
-    }
+
+        Console.WriteLine("Let this compile due to the trigger.");
+  }
+
 }
