@@ -11,4 +11,3 @@ class HelloWorld
         Console.WriteLine("Hello, world!");
     }
 }
-}
